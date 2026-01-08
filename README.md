@@ -1,4 +1,10 @@
-A base project utilizing GAS and common UI plugin in a networked game capable for singlplayer as well.
+# Showcase
+
+A base project made in UE5.7 utilizing GAS and common UI plugin in a networked game capable for singlplayer as well.
+
+## How To
+
+In order for the project to work properly, clone the repo and download the modified Paragon Countess files from [here](https://drive.google.com/drive/folders/1f9LdhPV0E4tEvA4hN1c2fIaQLjMbFQlC?usp=sharing) and extract them. Then in the repo's `Content` folder paste the extracted `ParagonCountess` folder.
 
 >All Rights Reserved
 >
